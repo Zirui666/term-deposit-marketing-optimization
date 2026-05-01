@@ -1,1 +1,11 @@
-Generated outputs from the notebook will be saved here.
+numpy
+pandas
+matplotlib
+scikit-learn
+statsmodels
+scipy
+pulp
+joblib
+interpret
+jupyter
+notebook
