@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv/
+venv/
+conda-env/
+
+# Data and generated outputs
+data/*.csv
+data/*.xlsx
+data/*.zip
+outputs/*
+figures/*
+
+# Keep folder documentation
+!data/README.md
+!outputs/README.md
+!figures/README.md
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,1 +1,1 @@
-Generated outputs from the notebook will be saved here.
+Generated outputs, model metrics, decision grids, and final optimization results will be saved here.

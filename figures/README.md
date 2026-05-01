@@ -1,1 +1,1 @@
-Optional folder for manually selected report figures.
+Optional folder for selected report or presentation figures.
