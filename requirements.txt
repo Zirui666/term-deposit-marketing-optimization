@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+statsmodels
+scipy
+pulp
+joblib
+interpret
+jupyter
+notebook
